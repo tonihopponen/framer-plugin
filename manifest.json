@@ -4,12 +4,13 @@
   "version": "1.0.0",
   "description": "A simple plugin that displays Hello World",
   "author": "Your Name",
-  "main": "index.tsx",
+  "main": "index.js",
   "permissions": [],
   "menu": [
     {
       "name": "Hello World",
-      "main": "index.tsx"
+      "main": "index.js"
     }
-  ]
+  ],
+  "ui": "ui.html"
 }
