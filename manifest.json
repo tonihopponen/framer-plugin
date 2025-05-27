@@ -1,0 +1,15 @@
+{
+  "id": "hello-world-plugin",
+  "name": "Hello World Plugin",
+  "version": "1.0.0",
+  "description": "A simple plugin that displays Hello World",
+  "author": "Your Name",
+  "main": "index.tsx",
+  "permissions": [],
+  "menu": [
+    {
+      "name": "Hello World",
+      "main": "index.tsx"
+    }
+  ]
+}
