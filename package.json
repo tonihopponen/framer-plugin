@@ -1,0 +1,17 @@
+{
+  "name": "hello-world-framer-plugin",
+  "version": "1.0.0",
+  "description": "A simple Hello World Framer plugin",
+  "main": "index.tsx",
+  "scripts": {
+    "build": "framer-plugin build",
+    "dev": "framer-plugin dev"
+  },
+  "dependencies": {
+    "framer-plugin": "^0.4.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "typescript": "^4.9.0"
+  }
+}
